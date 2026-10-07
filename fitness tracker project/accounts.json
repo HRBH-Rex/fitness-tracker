@@ -1,0 +1,26 @@
+{
+    "1": {
+        "Name": "ADMIN",
+        "Password": "AdPass",
+        "Height": "",
+        "Weight": "",
+        "BMI": "",
+        "Status": ""
+    },
+    "2": {
+        "Name": "Harry",
+        "Password": "password2",
+        "Height": 140.0,
+        "Weight": 45.0,
+        "BMI": 882000.0,
+        "Status": "Obese"
+    },
+    "3": {
+        "Name": "Benjamin",
+        "Password": "password3",
+        "Height": "Blank",
+        "Weight": "Blank",
+        "BMI": "Blank",
+        "Status": "Blank"
+    }
+}
